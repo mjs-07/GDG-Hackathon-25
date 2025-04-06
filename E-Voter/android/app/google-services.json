@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191307545346",
+    "project_id": "voter-entries-27",
+    "storage_bucket": "voter-entries-27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191307545346:android:dca06db2ddad1b0a31a01b",
+        "android_client_info": {
+          "package_name": "com.example.evoter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi6-Q-TwUSuk4peyOSETLCa1uGQSMTUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
